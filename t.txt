@@ -1,7 +1,0 @@
-aaa
-bbb
-ccc
-ddd
-eee
-fff fff aaa ccc
-aa2222
